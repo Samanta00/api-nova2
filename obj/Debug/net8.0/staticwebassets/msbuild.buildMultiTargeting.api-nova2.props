@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/api-nova2.props" />
+</Project>
